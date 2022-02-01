@@ -28,7 +28,7 @@
 <div id="panel">
 	<div class="row">
 		<div class="twelve columns">
-			<img src="http://www.wowthemes.net/demo/studiofrancesca/images/info.png" class="pics" alt="info">
+			<img src="http://www.wowthemes.net/demo/studiofrancesca/images/info.pn g" class="pics" alt="info">
 			<div class="infotext">
 				 Gracias por Visitar De todo en Alambre!
 			</div>
